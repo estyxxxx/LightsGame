@@ -13,3 +13,8 @@ Before playing, you can choose to either:
   Difficulty selection allows you to tailor the experience to your preference.
 - **Results and Ranking**:
 After the game concludes, you'll be presented with your results alongside the top player statistics.
+
+## Screenshots
+<img width="947" alt="1" src="https://github.com/estyxxxx/LightsGame/blob/main/1.png">
+<img width="947" alt="2" src="https://github.com/estyxxxx/LightsGame/blob/main/2.png">
+<img width="947" alt="3" src="https://github.com/estyxxxx/LightsGame/blob/main/3.png">
